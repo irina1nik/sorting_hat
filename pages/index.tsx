@@ -12,7 +12,7 @@ function Home() {
         </Text>
       </section>
 
-      <section className="flex flex-col gap-3 lg:w-1/2">
+      <section className="flex flex-col lg:w-1/2 gap-3">
         <div className="">
           <Chat />
         </div>
